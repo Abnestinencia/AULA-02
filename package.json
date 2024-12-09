@@ -1,0 +1,32 @@
+{
+  "name": "aula-02",
+  "version": "1.0.0",
+  "description": "Projeto aula 2",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abnestinencia/AULA-02.git"
+  },
+  "keywords": [
+    "HTTP",
+    "POST",
+    "JS",
+    "ND"
+  ],
+  "author": "Abner Paixão",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abnestinencia/AULA-02/issues"
+  },
+  "homepage": "https://github.com/Abnestinencia/AULA-02#readme",
+  "dependencies": {
+    "aula-02": "file:",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.7"
+  }
+}
